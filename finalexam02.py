@@ -22,6 +22,7 @@ class Point:
 p1=Point(1,1)
 p2=Point(2,2)
 
+
 p1.printPoint()
 p2.printPoint()
 
